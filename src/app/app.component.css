@@ -1,0 +1,14 @@
+/* .cards{
+    margin-top: 5%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2em;
+    justify-content: center;
+
+} */
+
+.text-center {
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  
